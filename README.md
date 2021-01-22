@@ -11,3 +11,7 @@ https://docs.aws.amazon.com/gamelift/latest/developerguide/gamelift-dg.pdf
 Code:
 
 https://docs.amazonaws.cn/en_us/gamelift/latest/developerguide/realtime-script.html
+
+Guide:
+
+https://docs.aws.amazon.com/gamelift/latest/developerguide/gamelift-dg.pdf#reference-intro
