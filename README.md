@@ -33,3 +33,7 @@ CognitoAWSCredentials credentials = new CognitoAWSCredentials(
     "ap-southeast-2:9a229c33-7832-4924-8fa4-f12f60c2fc50", // Identity pool ID
     RegionEndpoint.APSoutheast2 // Region
 );
+
+:(
+https://answers.unity.com/questions/776835/aws-sdk-the-namespace-amazon-could-not-be-found.html
+
