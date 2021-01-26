@@ -17,3 +17,11 @@ https://docs.amazonaws.cn/en_us/gamelift/latest/developerguide/realtime-script.h
 Guide:
 
 https://docs.aws.amazon.com/gamelift/latest/developerguide/gamelift-dg.pdf#reference-intro
+
+Cognito, js
+
+// Initialize the Amazon Cognito credentials provider
+AWS.config.region = 'ap-southeast-2'; // Region
+AWS.config.credentials = new AWS.CognitoIdentityCredentials({
+    IdentityPoolId: '...',
+});
