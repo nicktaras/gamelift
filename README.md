@@ -25,3 +25,11 @@ AWS.config.region = 'ap-southeast-2'; // Region
 AWS.config.credentials = new AWS.CognitoIdentityCredentials({
     IdentityPoolId: '...',
 });
+
+Cognito, .net
+
+// Initialize the Amazon Cognito credentials provider
+CognitoAWSCredentials credentials = new CognitoAWSCredentials(
+    "ap-southeast-2:9a229c33-7832-4924-8fa4-f12f60c2fc50", // Identity pool ID
+    RegionEndpoint.APSoutheast2 // Region
+);
