@@ -1,5 +1,7 @@
 # gamelift
 
+https://aws.amazon.com/blogs/gametech/creating-servers-for-multiplayer-mobile-games-with-amazon-gamelift/
+
 https://docs.aws.amazon.com/gamelift/
 
 https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/GameLift.html
