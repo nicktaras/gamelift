@@ -1,5 +1,21 @@
 # gamelift
 
+## Components:
+
+### GameLift
+### Fleet
+
+A fleet carries an instance of the game server, within an EC2. 
+
+You may choose to use more fleet instances to do the following:
+
+- Serve the game in different time zones
+- Server the game in different versions e.g. demo mode, premium. 
+- Allow more users to join, where there is a limit to concurrent users per instance. 
+
+### Lambda
+### Client Server
+
 https://aws.amazon.com/blogs/gametech/creating-servers-for-multiplayer-mobile-games-with-amazon-gamelift/
 
 https://docs.aws.amazon.com/gamelift/
