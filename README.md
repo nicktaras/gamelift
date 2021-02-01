@@ -1,5 +1,9 @@
 # gamelift
 
+## Must Use / Learn
+
+https://docs.aws.amazon.com/gamelift/latest/developerguide/integration-testing-local.html
+
 ## Components:
 
 ### GameLift
