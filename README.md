@@ -1,5 +1,8 @@
 # gamelift
 
+## Client server example ts
+https://github.com/dplusic/ideal-computing-breaking-machine/blob/master/Client/src/gamelift.ts
+
 ## Must Use / Learn
 
 https://docs.aws.amazon.com/gamelift/latest/developerguide/integration-testing-local.html
