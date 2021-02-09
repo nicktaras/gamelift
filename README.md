@@ -1,5 +1,8 @@
 # gamelift
 
+# list ports
+netstat -a
+
 ## unoffical
 
 https://github.com/dplusic/GameLift-Nodejs-ServerSDK/blob/master/src/Server/Network.ts
